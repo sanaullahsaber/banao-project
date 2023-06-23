@@ -25,6 +25,7 @@ import { BsBag } from "react-icons/Bs";
 
 const LeftBody = () => {
   
+  
   return (
     <div className="mt-1">
       {/* first card */}
